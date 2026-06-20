@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vaaya": {
+      "type": "http",
+      "url": "https://vaaya.ai/mcp"
+    }
+  }
+}
