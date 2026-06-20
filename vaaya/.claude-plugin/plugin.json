@@ -1,0 +1,10 @@
+{
+  "name": "vaaya",
+  "description": "Your agent's gateway to the outside world — pay for and run any external capability (media, web, compute, browser, email, calls, GTM) through one consult-first MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vaaya",
+    "url": "https://vaaya.ai"
+  },
+  "homepage": "https://vaaya.ai"
+}
